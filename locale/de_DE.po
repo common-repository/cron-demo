@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cron Demo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-08-16 21:43+0100\n"
+"Last-Translator: rr <rol@rm-r.at>\n"
+"Language-Team: Roland Rust <wordpress@designpraxis.at>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: AUSTRIA\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: E:\\www.designpraxis.at\\wordpress\\wp-content\\plugins\\\n"
+"X-Poedit-SearchPath-0: cron-demo\n"
+
+#: cron-demo/cron-demo.php:99
+msgid "WordPress Cron Demo"
+msgstr "WordPress Cron Demo"
+
+#: cron-demo/cron-demo.php:99
+msgid "Cron Demo message sent at: "
+msgstr "Cron Demo Nachricht gesendet um:"
+
+#: cron-demo/cron-demo.php:108
+msgid "Cron Demo"
+msgstr "Cron Demo"
+
+#: cron-demo/cron-demo.php:109
+msgid ""
+"This WordPress plugin is just a demo for using the built in WordPress \n"
+"\t\tpseudo-cron scheduling feature. Note that this WordPress feature depends on hits, \n"
+"\t\tyour WordPress website receives. So playing with this plugin within an offline environment \n"
+"\t\t(MAMP, XAMPP, WAMP etc.) without anyone or anything triggering the scheduling by \n"
+"\t\tsending requests to the WordPress page won't produce any results if you do not \n"
+"\t\ttrigger it by yourself."
+msgstr ""
+"Diese WordPress Plugin dient nur zur Demonstration der WordPress-eigenen\n"
+"\t\tpseudo-Cron Zeitplan Funktion. Bitte beachten Sie, dass diese Funktion von den Zugriffen abhängig ist, \n"
+"\t\twelche auf Ihre WordPress Seite getätigt werden. In einer Offline Umgabung \n"
+"\t\t(MAMP, XAMPP, WAMP etc.) ohne Besucher, welche durch Ihre Seitenaufrufe den WordPress Zeitplaner auslösen \n"
+"\t\twird also nichts passieren, wenn Sie nicht selbst  \n"
+"\t\tdie Seite aktualisieren."
+
+#: cron-demo/cron-demo.php:115
+msgid ""
+"The code of this plugin has the sole purpose of demonstrating the cron feature\n"
+"\t\tfor WordPress plugin developers. It sends a scheduled triggered email containing the timestamp of the action to a specified email adress."
+msgstr ""
+"Der Quellcode dieses Plugins hat den alleinigen Zweck, das Cron- oder Zeitplanfeature\n"
+"\t\tfür WordPress Plugin Entwickler zu demonstrieren. Das Plugin sendet eine automatische Email mit einem Zeitstempel zu dem die Aktion ausgelöst wurde an eine angegebene Email-Adresse."
+
+#: cron-demo/cron-demo.php:121
+msgid "Cron Demo is scheduled!"
+msgstr "Cron Demo ist geplant!"
+
+#: cron-demo/cron-demo.php:126
+msgid "Time now:"
+msgstr "Uhrzeit aktuell:"
+
+#: cron-demo/cron-demo.php:127
+msgid "Schedule will be triggered:"
+msgstr "Aktion wird ausgelöst:"
+
+#: cron-demo/cron-demo.php:130
+msgid "refresh"
+msgstr "aktualisieren"
+
+#: cron-demo/cron-demo.php:133
+msgid "To turn off demo schedules"
+msgstr "Geplante Aktion abschalten"
+
+#: cron-demo/cron-demo.php:138
+msgid "Cron Demo schedule was triggered"
+msgstr "Cron Demo wurde ausgelöst"
+
+#: cron-demo/cron-demo.php:141
+msgid "times."
+msgstr "mal"
+
+#: cron-demo/cron-demo.php:146
+msgid "Cron Demo is NOT scheduled!"
+msgstr "Cron Demo ist nicht geplant!"
+
+#: cron-demo/cron-demo.php:157
+msgid "Send an Email testing the cron feature:"
+msgstr "Senden einer Email um das Zeitplan-Feature zu testen:"
+
+#: cron-demo/cron-demo.php:158
+msgid "Email address"
+msgstr "Email-Adresse"
+
+#: cron-demo/cron-demo.php:159
+msgid "Seconds from now until this schedule should be triggered"
+msgstr "Sekunden von jetzt an, bis die Aktion ausgelöst wird"
+
+#: cron-demo/cron-demo.php:160
+msgid "seconds"
+msgstr "Sekunden"
+
+#: cron-demo/cron-demo.php:161
+msgid "Check to set this as a reccurring event"
+msgstr "Hier anhaken, um ein wiederkehrendes Ereigenis zu planen"
+
+#: cron-demo/cron-demo.php:163
+msgid "Set Demo Schedule"
+msgstr "Demo Zeitplan aktivieren"
+
+#: cron-demo/cron-demo.php:172
+msgid "Questions? Ideas?"
+msgstr "Fragen? Ideen?"
+
+#: cron-demo/cron-demo.php:174
+msgid "Drop me a line"
+msgstr "Kontaktieren Sie mich"
+
+#: cron-demo/cron-demo.php:179
+msgid "Do you like this Plugin?"
+msgstr "Gefällt Ihnen dieses Plugin?"
+
+#: cron-demo/cron-demo.php:180
+msgid "Consider to"
+msgstr "Unterstützen Sie meine Arbeit"
+
